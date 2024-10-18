@@ -29,4 +29,4 @@ Run the Gradio app
 
     gradio main.py
 
-Browse the app at  http://localhost:8080
+Browse the app at  http://localhost:7860
