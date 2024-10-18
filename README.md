@@ -14,6 +14,10 @@ If not already in the project folder, open a terminal and navigate there
 
     docker build -t hello-gradio:dev .
 
+    docker run --rm -p 127.0.0.1:7860:7860 hello-gradio:dev
+
+Browse the app at  http://localhost:7860
+
 ## Setup and run locally
 
 Create and set the virtual environment
